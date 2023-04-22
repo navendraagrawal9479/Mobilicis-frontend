@@ -1,0 +1,5 @@
+export const INCOME_CAR_API = 'income-car-filter'
+export const GENDER_PHONE_API = 'gender-phone-filter'
+export const NAME_EMAIL_API = 'name-email-filter'
+export const CAR_EMAIL_API = 'car-email-filter'
+export const CITIES_API = 'cities'
