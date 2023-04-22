@@ -19,7 +19,7 @@ const NameEmail = () => {
     },
     {
       id: 'gender',
-      label: 'Income (in $)'
+      label: 'Gender'
     },
     {
       id: 'quote',

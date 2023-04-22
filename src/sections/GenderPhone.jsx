@@ -19,7 +19,7 @@ const GenderPhone = () => {
     },
     {
       id: 'gender',
-      label: 'Income (in $)'
+      label: 'Gender'
     },
     {
       id: 'phone_price',

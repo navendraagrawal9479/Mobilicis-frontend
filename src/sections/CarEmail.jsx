@@ -19,7 +19,7 @@ const CarEmail = () => {
     },
     {
       id: 'gender',
-      label: 'Income (in $)'
+      label: 'gender'
     },
     {
       id: 'car',
