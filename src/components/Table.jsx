@@ -51,6 +51,7 @@ const TableComponent = ({ endPoint, reqBody, columns }) => {
             display='flex'
             alignItems={"center"}
             justifyContent={"center"}
+            height={'80vh'}
           >
             <CircularProgress />
           </Box>
